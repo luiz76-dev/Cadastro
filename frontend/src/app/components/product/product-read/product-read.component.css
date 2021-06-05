@@ -1,0 +1,29 @@
+table{
+    width: 100%;
+}
+
+.edit {
+    margin-right: 20px;
+}
+
+.edit > i{
+    color: #f0dc2c;
+}
+
+.delete > i{
+    color: #c44747;
+}
+
+.name {
+    color: #8585d6;
+    font-size: 1rem;
+}
+ .price {
+    color: #8585d6;
+    font-size: 1rem;  
+ }
+
+ .action {
+    color: #8585d6;
+    font-size: 1rem;
+ }

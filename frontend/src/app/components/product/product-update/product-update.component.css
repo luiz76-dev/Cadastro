@@ -1,0 +1,13 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    margin: 15px 20px 0 0;
+    background-color: #8585d6;
+    color: #fff;
+}
+button:hover{
+    background-color: rgb(168, 168, 241);
+}
